@@ -48,7 +48,7 @@ class Employee {
  * Sistem ini memungkinkan pengguna untuk menambahkan karyawan,
  * menandai kehadiran, dan menampilkan laporan kehadiran.
  */
-public class AttendanceSystem {
+public ckkoclass AttendanceSystem {
     static ArrayList<Employee> employees = new ArrayList<>();
     static Scanner scanner = new Scanner(System.in);
 
